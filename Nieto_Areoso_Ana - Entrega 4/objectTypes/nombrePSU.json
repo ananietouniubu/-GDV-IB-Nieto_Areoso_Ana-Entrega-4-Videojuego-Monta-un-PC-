@@ -1,0 +1,9 @@
+{
+	"name": "nombrePSU",
+	"plugin-id": "TextBox",
+	"sid": 455468447893361,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": []
+}
