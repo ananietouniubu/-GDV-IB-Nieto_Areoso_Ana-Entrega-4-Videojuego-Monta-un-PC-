@@ -79,7 +79,8 @@
 			"MenuInicial",
 			"BotónInicio",
 			"MenuVictoria",
-			"BotónReinicio"
+			"BotónReinicio",
+			"spritecursos"
 		],
 		"subfolders": []
 	},

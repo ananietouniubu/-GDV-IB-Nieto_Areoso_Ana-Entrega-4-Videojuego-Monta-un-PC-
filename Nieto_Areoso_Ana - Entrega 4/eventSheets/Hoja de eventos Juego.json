@@ -74,6 +74,14 @@
 					"parameters": {
 						"state": "disabled"
 					}
+				},
+				{
+					"id": "set-cursor-style2",
+					"objectClass": "Mouse",
+					"sid": 226146927805807,
+					"parameters": {
+						"cursor-style": "pointer"
+					}
 				}
 			],
 			"sid": 721140202204647
