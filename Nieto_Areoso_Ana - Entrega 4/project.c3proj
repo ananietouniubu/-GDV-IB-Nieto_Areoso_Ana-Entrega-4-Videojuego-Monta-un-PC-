@@ -8,6 +8,13 @@
 	"usedAddons": [
 		{
 			"type": "plugin",
+			"id": "Button",
+			"name": "Botón",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
 			"id": "Mouse",
 			"name": "Mouse",
 			"author": "Scirra",
@@ -67,7 +74,12 @@
 			"nombreCPU",
 			"nombrePSU",
 			"EntradaDeTexto",
-			"Texto2"
+			"Texto2",
+			"FondoJuego",
+			"MenuInicial",
+			"BotónInicio",
+			"MenuVictoria",
+			"BotónReinicio"
 		],
 		"subfolders": []
 	},
@@ -80,13 +92,17 @@
 	},
 	"layouts": {
 		"items": [
-			"Escena 1"
+			"Juego",
+			"Victoria",
+			"Iniciar"
 		],
 		"subfolders": []
 	},
 	"eventSheets": {
 		"items": [
-			"Hoja de eventos 1"
+			"Hoja de eventos Juego",
+			"Hoja de eventos Victoria",
+			"Hoja de eventos Iniciar"
 		],
 		"subfolders": []
 	},

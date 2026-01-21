@@ -1,0 +1,27 @@
+{
+	"name": "Hoja de eventos Iniciar",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "BotónInicio",
+					"sid": 656106856342245
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 812887492223416,
+					"parameters": {
+						"layout": "Juego"
+					}
+				}
+			],
+			"sid": 469975910250409
+		}
+	],
+	"sid": 976584047342994
+}

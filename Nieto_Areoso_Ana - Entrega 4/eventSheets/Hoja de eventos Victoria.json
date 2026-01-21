@@ -1,0 +1,27 @@
+{
+	"name": "Hoja de eventos Victoria",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "BotónReinicio",
+					"sid": 407352273780229
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 809151381395904,
+					"parameters": {
+						"layout": "Iniciar"
+					}
+				}
+			],
+			"sid": 281202520425209
+		}
+	],
+	"sid": 108709849380609
+}

@@ -1,0 +1,9 @@
+{
+	"name": "BotónReinicio",
+	"plugin-id": "Button",
+	"sid": 523831072801341,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": []
+}
