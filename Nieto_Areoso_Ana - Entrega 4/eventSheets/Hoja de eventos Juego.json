@@ -74,14 +74,6 @@
 					"parameters": {
 						"state": "disabled"
 					}
-				},
-				{
-					"id": "set-cursor-style2",
-					"objectClass": "Mouse",
-					"sid": 226146927805807,
-					"parameters": {
-						"cursor-style": "pointer"
-					}
 				}
 			],
 			"sid": 721140202204647
@@ -97,9 +89,9 @@
 				{
 					"id": "compare-two-values",
 					"objectClass": "System",
-					"sid": 888648466847071,
+					"sid": 882476463930031,
 					"parameters": {
-						"first-value": "\"placa\"",
+						"first-value": "nombrePLACA.text",
 						"comparison": 0,
 						"second-value": "\"placa\""
 					}
@@ -217,9 +209,9 @@
 				{
 					"id": "compare-two-values",
 					"objectClass": "System",
-					"sid": 313231259216561,
+					"sid": 752631716867740,
 					"parameters": {
-						"first-value": "\"cpu\"",
+						"first-value": "nombreCPU.Text",
 						"comparison": 0,
 						"second-value": "\"cpu\""
 					}
@@ -337,9 +329,9 @@
 				{
 					"id": "compare-two-values",
 					"objectClass": "System",
-					"sid": 889524321990687,
+					"sid": 636957720746534,
 					"parameters": {
-						"first-value": "\"cooler\"",
+						"first-value": "nombreCOOLER.Text",
 						"comparison": 0,
 						"second-value": "\"cooler\""
 					}
@@ -457,9 +449,9 @@
 				{
 					"id": "compare-two-values",
 					"objectClass": "System",
-					"sid": 271923820084530,
+					"sid": 596107700221244,
 					"parameters": {
-						"first-value": "\"grafica\"",
+						"first-value": "nombreGRAFICA.text",
 						"comparison": 0,
 						"second-value": "\"grafica\""
 					}
@@ -577,9 +569,9 @@
 				{
 					"id": "compare-two-values",
 					"objectClass": "System",
-					"sid": 838966755429564,
+					"sid": 481457084406783,
 					"parameters": {
-						"first-value": "\"psu\"",
+						"first-value": "nombrePSU.text",
 						"comparison": 0,
 						"second-value": "\"psu\""
 					}
@@ -697,9 +689,9 @@
 				{
 					"id": "compare-two-values",
 					"objectClass": "System",
-					"sid": 934499866414216,
+					"sid": 905633989498221,
 					"parameters": {
-						"first-value": "\"ram\"",
+						"first-value": "nombreRAM.text",
 						"comparison": 0,
 						"second-value": "\"ram\""
 					}
